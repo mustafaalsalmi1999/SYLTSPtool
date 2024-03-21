@@ -4,7 +4,7 @@ This Python tool predicts the yield strength (YS) and ultimate tensile strength 
 
 
 
-#Features:
+# Features:
 
 Predicts YS and UTS for unseen steel compositions.
 Provides user-friendly interface for input and output.
