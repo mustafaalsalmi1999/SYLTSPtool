@@ -6,7 +6,7 @@ import itertools
 import collections
 from statistics import mean,stdev
 import matplotlib.pyplot as plt
-f = pd.read_csv('FTCT-Chem-YS-UTS 4.csv')
+f = pd.read_csv('EXAMPLE.csv')
 T1 = f.iloc[:, 0:2]
 for j in range(0,2):
     for i in range(3,13):
