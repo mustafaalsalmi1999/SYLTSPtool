@@ -14,5 +14,7 @@ Leverages a trained machine learning model for accurate predictions.
 
 
 1-Downalod code.py 
-2-Change the data file(csv) name of on code
-3-run the codes by making sure that the file and data file on the same direcotry = code.py filena,e.csv
+
+2-Rename the data file(csv) on the code.py
+
+3-run the codes by making sure that the file and data file on the same direcotry = code.py EXAMPLE.csv
